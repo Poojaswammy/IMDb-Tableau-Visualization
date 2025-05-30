@@ -25,22 +25,24 @@ This project visualizes a rich IMDb dataset using **Tableau**, highlighting key 
 - ##  Preview
 
 ###  Full Dashboard  
-![Dashboard](screenshots/Dashboard.png)
+![Dashboard](https://github.com/user-attachments/assets/a3a14029-204b-485c-abf5-332b21506f99)
+
 
 ###  Line Chart  
-![Line Chart](screenshots/Line_chart.png)
+![Line_chart](https://github.com/user-attachments/assets/39535d89-7ab0-4fa0-afc2-275d62916931)
 
 ###  Bar Chart  
-![Bar Chart](screenshots/Bar_graph.png)
+![Bar_graph](https://github.com/user-attachments/assets/522d40ae-2e9f-4411-aa8c-2cfe3ebd5cb1)
 
 ###  Histogram  
-![Histogram](screenshots/Histogram.png)
+![Histogram](https://github.com/user-attachments/assets/dc189b9d-0957-47af-bdac-fb2bc91934e9)
 
-###  Scatter Plot  
-![Scatter Plot](screenshots/Scatter_plot.png)
+###  Scatter Plot 
+![Scatter_plot](https://github.com/user-attachments/assets/fe22039b-5782-4234-9f31-e434f5ff9b0a)
 
 ###  Stacked Bar  
-![Stacked Bar](screenshots/Stacked_bar.png)
+![Stacked_bar](https://github.com/user-attachments/assets/371be786-8968-45c7-a1af-1a6dd9622ed4)
+
 
 
 ##  Tools Used
